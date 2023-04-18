@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niranjan Agaram</h1>
 <h3 align="center">A Data Consultant from India (Benguluru)</h3>
 
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+
+![FoVzfcqCDSb7zCynOp](https://user-images.githubusercontent.com/14706884/232673549-671cd5bd-f5c1-4b99-97af-02b872fa79fc.gif)
 
 <p align="left"> <a href="https://twitter.com/niranjanagaram" target="blank"><img src="https://img.shields.io/twitter/follow/niranjanagaram?logo=twitter&style=for-the-badge" alt="niranjanagaram" /></a> </p>
 
