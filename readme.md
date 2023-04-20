@@ -2,9 +2,24 @@
 <h3 align="center">A Data Consultant from India (Benguluru)</h3>
 
 
+
 ![FoVzfcqCDSb7zCynOp](https://user-images.githubusercontent.com/14706884/232673549-671cd5bd-f5c1-4b99-97af-02b872fa79fc.gif)
 
 <p align="left"> <a href="https://twitter.com/niranjanagaram" target="blank"><img src="https://img.shields.io/twitter/follow/niranjanagaram?logo=twitter&style=for-the-badge" alt="niranjanagaram" /></a> </p>
+
+As a Dataminded, having 8 years of rich experience in Data Warehousing involving Business Requirements Analysis, Application Design, Data Modeling, Development, Testing, and Documentation.
+
+I Am confident in my ability to design and implement scalable, cost-effective data pipelines and architectures for storing, processing, and analyzing Big Data.
+
+•Technical expertise in Big Data technologies like Hadoop, Spark, Python, and SQL with on-premise and cloud technologies like Azure(ADF, DataBricks, Storage Services, Functions, Logic Apps) and AWS services(Boto3, Lambda, S3, Ec2, Glue, Redshift, Athena).
+
+• Hands-on experience using GCP and Snowflake.
+
+•An effective communicator with good presentation and organizational Sills
+•Flexible to learn advancements in the IT industry, Quick learner, Team Player, willing to learn new technologies.
+
+•Domain experience in Retail and Health Care.
+
 
 - 🔭 I’m currently working on [Digital & Advanced Analytics](https://www.course5i.com/)
 
