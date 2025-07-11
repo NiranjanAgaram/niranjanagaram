@@ -21,7 +21,7 @@ I Am confident in my ability to design and implement scalable, cost-effective da
 •Domain experience in Retail and Health Care.
 
 
-- 🔭 I’m currently working on [Digital & Advanced Analytics](https://www.course5i.com/)
+- 🔭 I’m currently working on Building Data solutions.
 
 - 🌱 I’m currently learning **How to make a use of Tech for the human betterment.**
 
