@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/niranjanagaram" target="blank"><img src="https://img.shields.io/twitter/follow/niranjanagaram?logo=twitter&style=for-the-badge" alt="niranjanagaram" /></a> </p>
 
-As a Dataminded, having 8 years of rich experience in Data Warehousing involving Business Requirements Analysis, Application Design, Data Modeling, Development, Testing, and Documentation.
+As a Dataminded, having 10 years of rich experience in Data Warehousing involving Business Requirements Analysis, Application Design, Data Modeling, Development, Testing, and Documentation.
 
 I Am confident in my ability to design and implement scalable, cost-effective data pipelines and architectures for storing, processing, and analyzing Big Data.
 
